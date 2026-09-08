@@ -12,7 +12,7 @@ public class DemoApplication {
 
 	@GetMapping("/")
 	String home() {
-		return "Spring is here!";
+		return "Gitlab Spring App!";
 	}
 
 	public static void main(String[] args) {
